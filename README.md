@@ -9,7 +9,7 @@ A sleek, responsive, and intuitive single-page web application designed for real
 > **Live Demo Link:** (https://sprint2-phi-six.vercel.app/)
 
 
-![FlowState Preview Screenshot]<img width="1896" height="1082" alt="Screenshot 2026-07-23 040251" src="https://github.com/user-attachments/assets/3a8eb2ce-df9c-4e20-bb2c-8b37df3a56c4" />
+[FlowState Preview Screenshot]<img width="1896" height="1082" alt="Screenshot 2026-07-23 040251" src="https://github.com/user-attachments/assets/3a8eb2ce-df9c-4e20-bb2c-8b37df3a56c4" />
 
 
 ---
@@ -47,3 +47,4 @@ A sleek, responsive, and intuitive single-page web application designed for real
 ├── style.css         # Styling, CSS variables, animations, and media queries
 ├── script.js         # Core application logic and state management
 └── README.md         # Project documentation
+└── PROPMT.md         # Ai uses in project
